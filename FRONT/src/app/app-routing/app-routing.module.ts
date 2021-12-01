@@ -7,8 +7,8 @@ import { ErrorComponent } from '../error/error.component';
 import { LoginComponent } from '../login/login.component';
 
 const routes: Routes = [
-  { path: 'login', component: LoginComponent },
   { path: '', redirectTo: 'cards', pathMatch: 'full' },
+  { path: 'login', component: LoginComponent },
   {
     path: 'cards',
     component: BoardComponent,
