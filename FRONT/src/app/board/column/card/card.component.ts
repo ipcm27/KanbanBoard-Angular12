@@ -20,7 +20,6 @@ export class CardComponent implements OnInit {
   columns = COLUMNS;
   @Input() column!: string;
   @Input() card!: Card;
-  @Input() trueOrFalse!: string;
   @Output() cardChanged = new EventEmitter<Card[]>();
 
   cardForm: FormGroup = new FormGroup({
@@ -39,8 +38,6 @@ export class CardComponent implements OnInit {
   title: string = '';
   content: string = '';
   lista: string = '';
-
-  mamute!: Card;
 
   menuOpen: boolean = false;
 
