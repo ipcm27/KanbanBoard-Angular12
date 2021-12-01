@@ -2,9 +2,12 @@
 
  Kanban project
 
- Projeto feito com Angular 12, bootstrap5 e Angular material. O projeto foi proposto como conclucsão de módulo de Angular do degree Santander Corders fullstack developer
-ministrado pela LEts Code  epela professora Larissa 
+ Projeto feito com Angular 12, bootstrap5 e Angular material. O projeto foi proposto como conclucsão de módulo de Angular do degree Santander Corders fullstack developer ministrado pela LEts Code pela professora Larissa.
 
+Segue imagem do projeto final:
+
+
+<img src="https://user-images.githubusercontent.com/62574338/144156405-d10cc231-ca46-41d2-9664-ed7716f0eb18.png">
 
 
 
