@@ -66,9 +66,13 @@ export class CardComponent implements OnInit {
     this.menuOpen = !this.menuOpen;
   }
 
+  closeCard() {
+    this.editBool = !this.editBool;
+  }
+
   onMudouValor(evento: any) {
     if (evento == 'true') {
-      this.editBool = true;
+      this.editBool = !this.editBool;
     }
   }
 

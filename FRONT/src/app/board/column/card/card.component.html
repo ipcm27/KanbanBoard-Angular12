@@ -16,6 +16,14 @@
   </a>
 </div>
 <div class="card" *ngIf="editBool">
+  <button
+    type="button"
+    class="btn btn-danger material-icons"
+    (click)="closeCard()"
+    Style="size: 25px;"
+  >
+    minimize
+  </button>
   <form [formGroup]="editForm" (ngSubmit)="updateCard()">
     <div class="card_content">
       <label for="titulo">Titulo</label> <br />
