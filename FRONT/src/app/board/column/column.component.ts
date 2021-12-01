@@ -53,7 +53,7 @@ export class ColumnComponent implements OnInit {
     this.showForm = !this.showForm;
   }
 
-  drop(event: CdkDragDrop<string>) {
-    moveItemInArray(this.cards, event.previousIndex, event.currentIndex);
-  }
+  // drop(event: CdkDragDrop<string>) {
+  //   moveItemInArray(this.cards, event.previousIndex, event.currentIndex);
+  // }
 }

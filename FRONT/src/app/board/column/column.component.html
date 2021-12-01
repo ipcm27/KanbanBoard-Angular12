@@ -3,7 +3,7 @@
     <div class="column-title">
       {{ column }}
     </div>
-    <div class="column" (cdkDropListDropped)="drop($event)">
+    <div class="column">
       <app-card
         *ngFor="let card of cards"
         [column]="column"
