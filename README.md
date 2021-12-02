@@ -5,9 +5,10 @@
 
 # 🏷️ Contexto
 
-Esse projeto foi proposto como conclusão do módulo de Angular do curso "Santander Corders - web fullstack developer degree" ministrado pela Lets Code e pela professora larissa Queiroz, minha mestra do FrontEnd.<img src="https://user-images.githubusercontent.com/62574338/144433078-f4d94089-6800-48b7-861b-482472adfc95.png" Style="width:30px;">   
+Esse projeto foi proposto como conclusão do módulo de Angular do curso "Santander Corders - web fullstack developer degree" ministrado pela Lets Code e pela professora larissa Queiroz,a mestra do FrontEnd do Jedi que está escrevendo.<img src="https://user-images.githubusercontent.com/62574338/144434843-bc3b589e-2811-4d9d-8832-6ae9fe597f93.png" Style="width:30px;">   
 
-Foi finalizado em 30 de novembro de 2021
+Foi finalizado em 30 de novembro de 2021!
+
 
 
 O propósito desse desafio é a criação de frontend para um quadro de kanban. Esse quadro possui listas, que contém cards.
