@@ -5,7 +5,7 @@
 
 # 🏷️ Contexto
 
-Esse projeto foi proposto como conclusão do módulo de Angular do curso "Santander Corders - web fullstack developer degree" ministrado pela Lets Code e pela professora larissa Queiroz, minha mestra do FrontEnd.<img src="https://user-images.githubusercontent.com/62574338/144433078-f4d94089-6800-48b7-861b-482472adfc95.png" Style="width=10px;">   
+Esse projeto foi proposto como conclusão do módulo de Angular do curso "Santander Corders - web fullstack developer degree" ministrado pela Lets Code e pela professora larissa Queiroz, minha mestra do FrontEnd.<img src="https://user-images.githubusercontent.com/62574338/144433078-f4d94089-6800-48b7-861b-482472adfc95.png" Style="width:10px;">   
 
 Foi finalizado em 30 de novembro de 2021
 
@@ -16,11 +16,12 @@ O backend foi feito usando Node e já foi disponibilizado.
 
 # Aplicando o CRUD
 O usuário pode:
-
-   ✏️ Criar novos cards
-   📖 Ler os cards
-   ⏫ Atualizar o título, conteúdo e a coluna pertecente dos cards
-   ❌ Deletar os cards
+<ul>
+ <li>  ✏️ Criar novos cards  </li> 
+ <li>  📖 Ler os cards  </li> 
+ <li>  ⏫ Atualizar o título, conteúdo e a coluna pertecente dos cards </li> 
+ <li>  ❌ Deletar os cards </li> 
+</Ul>  
 
 
 # 🛠 Linguagens e frameworks
