@@ -1,11 +1,11 @@
 # Kanban Board - Angular12
 
-# ✅ Resultado final:
+# 💎 Resultado final:
 ![GIF KANBAN _ ANGULAR !@](https://user-images.githubusercontent.com/62574338/144427575-5e455241-809e-4dfc-a205-553d73d6b380.gif)
 
 # 🏷️ Contexto
 
-Esse projeto foi proposto como conclusão do módulo de Angular do curso "Santander Corders - web fullstack developer degree" ministrado pela Lets Code e pela professora larissa Queiroz, minha mestra do FrontEnd.<img src="https://user-images.githubusercontent.com/62574338/144433078-f4d94089-6800-48b7-861b-482472adfc95.png" Style="width:10px;">   
+Esse projeto foi proposto como conclusão do módulo de Angular do curso "Santander Corders - web fullstack developer degree" ministrado pela Lets Code e pela professora larissa Queiroz, minha mestra do FrontEnd.<img src="https://user-images.githubusercontent.com/62574338/144433078-f4d94089-6800-48b7-861b-482472adfc95.png" Style="width:30px;">   
 
 Foi finalizado em 30 de novembro de 2021
 
@@ -14,7 +14,7 @@ O propósito desse desafio é a criação de frontend para um quadro de kanban. 
 O backend foi feito usando Node e já foi disponibilizado.
 
 
-# Aplicando o CRUD
+🎛️ # Aplicando o CRUD
 O usuário pode:
 <ul>
  <li>  ✏️ Criar novos cards  </li> 
@@ -32,7 +32,7 @@ O usuário pode:
 
 
 
-# Breathing passado:
+# 🔖 Breathing passado:
 
 O propósito desse desafio é a criação de frontend para um quadro de kanban. Esse quadro possui listas, que contém cards.
 As imagens abaixo são apenas uma ilustração da funcionalidade desejada:
