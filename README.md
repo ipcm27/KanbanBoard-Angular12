@@ -5,7 +5,7 @@
 
 # 🏷️ Contexto
 
-Esse projeto foi proposto como conclusão do módulo de Angular do curso "Santander Corders - web fullstack developer degree" ministrado pela Lets Code e pela professora larissa Queiroz,a mestra do FrontEnd do Jedi que está escrevendo. 
+Esse projeto foi proposto como conclusão do módulo de Angular do curso "Santander Corders - web fullstack developer degree" ministrado pela Lets Code e pela professora Larissa Queiroz,a mestra do frontEnd do jedi que está escrevendo. 
 <br>
 <img src="https://user-images.githubusercontent.com/62574338/144434843-bc3b589e-2811-4d9d-8832-6ae9fe597f93.png" Style="width:60px;">   
 
